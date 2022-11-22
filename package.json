@@ -2,7 +2,7 @@
   "name": "wirthwhile-version-bumper",
   "version": "1.0.0",
   "description": "This script automates bumping the git software project's version using automation",
-  "author": "Aaron Wirth"
+  "author": "Aaron Wirth",
   "homepage": "https://github.com/wirthwhiledev/version-bumper",
   "repository": {
     "type": "git",
